@@ -3,7 +3,7 @@ Developed a POC for understanding various ways for id generation
 
 Why ID generation is required ?
 We can use mysql auto increment id generator but what if we have sharded data then auto increment generator will not work correctly because
-each database has their owm auto_increment
+each database has their own auto_increment
 
 # Approaches
 
